@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "cc.flawcra.keybindfixplus.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BoundKeyAccessor",
+    "KeybindingMixin",
+    "TimesPressedAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "keybindfixplus",
+  "version": "${version}",
+  "name": "Keybind Fix Plus",
+  "description": "Fixes keybindings overwriting each other when set as a conflict, allowing both bindings to function (in game effects may still conflict)",
+  "authors": [
+    "fzzyhmstrs",
+    "FlawCra"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/keybindfixplus",
+    "issues": "https://github.com/FlawCra/keybindfixplus/issues",
+    "sources": "https://github.com/FlawCra/keybindfixplus"
+  },
+  "license": "MIT License",
+  "icon": "assets/keybindfixplus/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "keybindfixplus.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "fabric-language-kotlin": ">=${fabric_kotlin_version}",
+    "minecraft": ">=${minecraft_version}",
+    "java": ">=21"
+  }
+}
