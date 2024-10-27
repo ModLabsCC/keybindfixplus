@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "cc.flawcra.keybindfixplus.mixins",
+  "package": "cc.modlabs.keybindfixplus.mixins",
   "compatibilityLevel": "JAVA_21",
   "client": [
     "BoundKeyAccessor",

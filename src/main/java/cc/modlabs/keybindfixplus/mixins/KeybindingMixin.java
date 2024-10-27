@@ -1,6 +1,6 @@
-package cc.flawcra.keybindfixplus.mixins;
+package cc.modlabs.keybindfixplus.mixins;
 
-import cc.flawcra.keybindfixplus.KeybindFixer;
+import cc.modlabs.keybindfixplus.KeybindFixer;
 import com.llamalad7.mixinextras.sugar.Local;
 import net.minecraft.client.option.KeyBinding;
 import net.minecraft.client.util.InputUtil;

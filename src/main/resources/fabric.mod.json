@@ -6,12 +6,12 @@
   "description": "Fixes keybindings overwriting each other when set as a conflict, allowing both bindings to function (in game effects may still conflict)",
   "authors": [
     "fzzyhmstrs",
-    "FlawCra"
+    "ModLabs"
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/keybindfixplus",
-    "issues": "https://github.com/FlawCra/keybindfixplus/issues",
-    "sources": "https://github.com/FlawCra/keybindfixplus"
+    "issues": "https://github.com/ModLabsCC/keybindfixplus/issues",
+    "sources": "https://github.com/ModLabsCC/keybindfixplus"
   },
   "license": "MIT License",
   "icon": "assets/keybindfixplus/icon.png",

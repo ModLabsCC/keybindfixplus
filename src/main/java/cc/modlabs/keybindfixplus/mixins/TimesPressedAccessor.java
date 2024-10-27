@@ -1,4 +1,4 @@
-package cc.flawcra.keybindfixplus.mixins;
+package cc.modlabs.keybindfixplus.mixins;
 
 import net.minecraft.client.option.KeyBinding;
 import org.spongepowered.asm.mixin.Mixin;
